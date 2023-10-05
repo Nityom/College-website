@@ -133,6 +133,12 @@ body{
     border-radius: 10px;
     font-family: 'Poppins', sans-serif;
 }
+#butt6{
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+}
 
 #butt1:hover{
 
@@ -161,5 +167,9 @@ body{
 #butt5:hover{
 
     background-color: rgba(16, 228, 48, 0.942);
+    transition: 1s;
+}
+#butt6:hover{
+    background-color:#03fc0b;
     transition: 1s;
 }
